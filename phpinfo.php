@@ -1,0 +1,6 @@
+<?
+phpinfo();
+?>
+<?
+echo "hello"
+?>
